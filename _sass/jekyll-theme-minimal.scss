@@ -3,16 +3,16 @@
 
 body {
   background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Fira Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  padding: 50px;
+  font: 14px/1.5 "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
-  font: Raleway, sans-serif;
+  color: #002147;
+  margin: 0 0 20px;
+  font-face: "Raleway", sans-serif;
 }
 
 p, ul, ol, table, pre, dl {
@@ -32,16 +32,16 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#222;
 }
 
 a {
-  color:#267CB9;
+  color:#4891DC;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#44687D;
   font-weight: bold;
 }
 
@@ -69,7 +69,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
 }
 
