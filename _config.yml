@@ -2,5 +2,6 @@ title: Zenobia Chan
 logo: /assets/img/zc.jpg
 description: Researcher in International Relations.
 show_downloads: false
+github.is_user_page: false
 google_analytics: G-8QWHHB9LC1
 theme: jekyll-theme-minimal
