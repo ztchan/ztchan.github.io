@@ -66,7 +66,7 @@ I am a researcher in international relations, focusing on economic statecraft, a
 
 My book project <i>Alms and Influence</i> examines when economic inducements – such as foreign aid, large-scale investment initiatives, and discounted sales of natural resources – can buy influence abroad. I argue that inducements can be lucrative to not just the recipient but also the sender. This leads to what I call the <a href="https://ssrn.com/abstract=4789560" target="_blank"><i>inducement dilemma</i></a>: when a state profits from giving inducements, it will be less likely to cut them off, even when it does not receive any concessions. Consequently, the recipient has less incentive to concede, rendering the inducement ineffective in extracting concessions. For an inducement to be useful in extracting concessions, its credibility must come from the punishment for reneging, rather than the profit from delivering. I test these dynamics in China’s Belt and Road Initiative, the Marshall Plan, and Russia’s energy diplomacy in the 21st century. 
 
-I hold a PhD in Politics from Princeton and have taught at Oxford and Georgetown. Before academia, I led an analytics team at Google and worked at the UN, World Bank, and OECD on development assistance, infrastructure financing, and energy policy.
+I hold a PhD in Politics from Princeton and have taught at Oxford, Georgetown, and the Institute for Qualitative and Multi-Method Research (IQMR). Before academia, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
 ## Publications
 
@@ -87,7 +87,7 @@ Behind the Screen: Understanding National Support for an Investment Screening Me
 
 
 <p>
-Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials.
+Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials
   (with <a href="https://natematias.com/" target="_blank">J. Nathan Matias</a> and Eric Pennington) <br>
   <b>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</b>, 2022: 1722–32. <br>
 
@@ -115,7 +115,7 @@ Audience Costs and the Credibility of Commitments
 ## Working Papers
 
 <p>
-Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (under review)
+Affluence without Influence? The Inducement Dilemma in Economic Statecraft (under review)
 <br>
 <button onclick="myFunction('absAffluence')" class="button">Abstract</button>
 <button onclick=" window.open('https://ssrn.com/abstract=4789560','_blank')" class="button">Current Draft</button> 
@@ -128,7 +128,7 @@ Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (und
 
 
 <p>
-Divide and Conquer: Russian Information Operations and Polarization Through One-Sided Narratives. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
+Divide and Conquer: Russian Information Operations and Polarization Through One-Sided Narratives (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
 <br>
 <button onclick="myFunction('absPolarization')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122667','_blank')" class="button">Current Draft</button> 
@@ -142,7 +142,7 @@ Divide and Conquer: Russian Information Operations and Polarization Through One-
 
 
 <p>
-The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Operations. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
+The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Operations (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, under review)
 <br>
 <button onclick="myFunction('absRelayStation')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955091','_blank')" class="button">Current Draft</button> 
@@ -155,7 +155,7 @@ The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Ope
 
 
 <p>
-Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication. (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
+Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
 <br>
 <button onclick="myFunction('absMultipleChannel')" class="button">Abstract</button>
 <button onclick=" window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970055','_blank')" class="button">Current Draft</button> 
@@ -167,7 +167,7 @@ Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Commun
 
 
 <p>
-Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deescalation. (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>, under review)
+Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deescalation (with <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>, under review)
 <br>
 <button onclick="myFunction('absAccident')" class="button">Abstract</button>
 <button onclick=" window.open('https://ssrn.com/abstract=4894404','_blank')" class="button">Current Draft</button> 
@@ -179,7 +179,7 @@ Attributions and Deescalation: The Public Dynamics of U.S.–China Crisis Deesca
 
 
 <p>
-Transparent Machine Learning through Improved Variable Importance Measures. (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
+Transparent Machine Learning through Improved Variable Importance Measures (with <a href="https://scholar.princeton.edu/ratkovic/home" target="_blank">Marc Ratkovic</a>)
 <br>
 <button onclick="myFunction('absVIM')" class="button">Abstract</button>
 <button onclick=" window.open('https://youtu.be/44u5qYwUL-U','_blank')" class="button1">Presentation Video</button> 
