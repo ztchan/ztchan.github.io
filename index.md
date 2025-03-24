@@ -24,6 +24,7 @@ function myFunction(divId) {
     margin: 4px auto;
     cursor: pointer;
     padding: 5px;
+    font-family: "Fira Sans", sans-serif;
 }
 	
 .button:hover {
@@ -41,6 +42,7 @@ function myFunction(divId) {
     margin: 4px auto;
     cursor: pointer;
     padding: 5px;
+    font-family: "Fira Sans", sans-serif;
 }
 	
 .button1:hover {
