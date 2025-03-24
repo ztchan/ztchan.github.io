@@ -112,8 +112,6 @@ Audience Costs and the Credibility of Commitments
 
 ## Working Papers
 
-Please <a href="mailto:zenobia.chan@nuffield.ox.ac.uk" target="_blank">email me</a> for the latest drafts.
-
 <p>
 Affluence without Influence? The Inducement Dilemma in Economic Statecraft. (under review)
 <br>
