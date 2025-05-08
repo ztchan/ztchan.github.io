@@ -69,7 +69,7 @@ My book project <i>Alms and Influence</i> examines when economic inducements –
 
 I hold a PhD in Politics from Princeton and have taught at Georgetown, Oxford, and the Institute for Qualitative and Multi-Method Research (IQMR). Before academia, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy. 
 
-Decades of living, studying, and working across four continents left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once proudly listed Arabic, Georgian, and Khmer on my CV, but now forget them with alarming speed. These days, I am also dabbling in Estonian and Finnish — because why not?
+Years (decades, really) of living, studying, and working across four continents left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once proudly listed Arabic, Georgian, and Khmer on my CV, but now forget them with alarming speed. These days, I am also dabbling in Estonian and Finnish — because why not?
 
 ## Publications
 
