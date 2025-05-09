@@ -122,7 +122,6 @@ Years (decades, really) of living, studying, and working across five continents 
 <b>Audience Costs and the Credibility of Commitments</b>
   (with <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a> and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)<br>
   <i>Oxford Bibliographies in International Relations</i>, 2021. <br>
-  <b>Oxford Bibliographies in International Relations</b>, 2021. <br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://drive.google.com/file/d/1ZgHzi3WzaTvgAR8hL_SZbdMR07AlNxUS/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
 </p>
