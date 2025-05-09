@@ -74,9 +74,9 @@ Years (decades, really) of living, studying, and working across five continents 
 ## Publications
 
 <p>
-What Does China Want? 
+<b>What Does China Want?</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
-  <b>International Security</b>, forthcoming in summer 2025. <br>
+  <i>International Security</i>, forthcoming in summer 2025. <br>
 
 <button onclick="myFunction('absWhatDoesChinaWant')" class="button">Abstract</button>
 <div id='absWhatDoesChinaWant' style="display: none;">
@@ -86,10 +86,10 @@ What Does China Want?
 
 
 <p>
-Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
-  (with <a href="https://smeunier.scholar.princeton.edu/" target="_blank">Sophie Meunier</a>) <br>
-  <b>Review of International Organizations</b>, 2022, 17(3): 513–41. <br>
-
+<b>Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union</b>
+  (with <a href="https://smeunier.scholar.princeton.edu/" target="_blank">Sophie Meunier</a>)<br>
+  <i>Review of International Organizations</i>, 2022, 17(3): 513–41.<br>
+	
 <button onclick="myFunction('absBehindTheScreen')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1007/s11558-021-09436-y','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://drive.google.com/file/d/1D1cglmckeIBIdDSVDy9doMceS94xTsIH/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
@@ -102,9 +102,9 @@ Behind the Screen: Understanding National Support for an Investment Screening Me
 
 
 <p>
-Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials
-  (with <a href="https://natematias.com/" target="_blank">J. Nathan Matias</a> and Eric Pennington) <br>
-  <b>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</b>, 2022: 1722–32. <br>
+<b>Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Trials</b>
+  (with <a href="https://natematias.com/" target="_blank">J. Nathan Matias</a> and Eric Pennington)<br>
+  <i>Proceedings of the ACM Conference on Fairness, Accountability, and Transparency</i>, 2022: 1722–32.<br>
 
 <button onclick="myFunction('absNof1')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.1145/3531146.3533227','_blank')" class="button">Publisher's Version</button> 
@@ -119,8 +119,9 @@ Testing Concerns about Technology’s Behavioral Impacts with <i>N</i>-of-one Tr
 
 
 <p>
-Audience Costs and the Credibility of Commitments
-  (with <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a> and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>) <br>
+<b>Audience Costs and the Credibility of Commitments</b>
+  (with <a href="https://government.cornell.edu/samuel-liu" target="_blank">Samuel Liu</a> and <a href="https://ppaweb.hku.hk/f/quek" target="_blank">Kai Quek</a>)<br>
+  <i>Oxford Bibliographies in International Relations</i>, 2021. <br>
   <b>Oxford Bibliographies in International Relations</b>, 2021. <br>
 <button onclick=" window.open('https://doi.org/10.1093/OBO/9780199743292-0305','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://drive.google.com/file/d/1ZgHzi3WzaTvgAR8hL_SZbdMR07AlNxUS/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
