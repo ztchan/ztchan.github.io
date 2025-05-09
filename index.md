@@ -74,6 +74,18 @@ Years (decades, really) of living, studying, and working across five continents 
 ## Publications
 
 <p>
+What Does China Want? 
+  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <b>International Security</b>, forthcoming in summer 2025. <br>
+
+<button onclick="myFunction('absWhatDoesChinaWant')" class="button">Abstract</button>
+<div id='absWhatDoesChinaWant' style="display: none;">
+  <blockquote>What does China want? The conventional wisdom is that China is a rising hegemon eager to replace the United States, eager to dominate international institutions, and eager to recreate the liberal international order in its own image. But often this claim is simply asserted, and even many claims based on analyses of Chinese rhetoric are misleading. We examine contemporary China — its goals and its fears — in both words and deeds. A careful review of the evidence reveals one overarching conclusion and three specific points. Overall, China is a status quo power concerned with regime stability, and it remains more inwardly focused than externally oriented. More specifically: Chinese aims are clear; Chinese aims are enduring; and China’s aims are limited. That is, China remains mostly inwardly focused, and cares about its borders, its sovereignty, and its foreign economic relations. Its concerns are almost all regional in nature and concern parts of China that the rest of the region has agreed are Chinese — Hong Kong, Taiwan, Tibet, and Xinjiang. Chinese claims are also “trans-dynastic” and are old, not new. Many of contemporary China’s core interests date from the Qing dynasty or even earlier and were eventually inherited by the Chinese Communist Party. Finally, what China wants is not increasing, even as its power has rapidly expanded over the past generation. If China is indeed not planning to “replace the U.S.,” then the future of U.S.–China relations is less inevitable — and potentially more optimistic — than much social science theorizing and the DC policy establishment predicts.</blockquote>
+</div>
+</p>
+
+
+<p>
 Behind the Screen: Understanding National Support for an Investment Screening Mechanism in the European Union 
   (with <a href="https://smeunier.scholar.princeton.edu/" target="_blank">Sophie Meunier</a>) <br>
   <b>Review of International Organizations</b>, 2022, 17(3): 513–41. <br>
