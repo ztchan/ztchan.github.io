@@ -171,6 +171,17 @@ The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Ope
 </p>
 
 
+<p>
+Diplomats in Camouflage: A Dataset of China's Military-Diplomatic Engagements (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
+<br>
+<button onclick="myFunction('absMilitaryDiplomacy')" class="button">Abstract</button>
+<button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button">Current Draft</button> 
+
+<div id='absMilitaryDiplomacy' style="display: none;">
+  <blockquote>Face-to-face diplomacy is increasingly recognized as central to international politics, from trade negotiations to rapprochement and the signaling of intentions. Yet existing research overwhelmingly emphasizes civilian leaders and diplomats, overlooking the distinct role of senior military officials who engage directly with foreign counterparts to advance cooperation outside traditional diplomatic channels. We introduce an original dataset documenting over 2,500 high-level military-diplomatic interactions between China and foreign states from 2000 to 2023 - the most comprehensive record to date, with more than twice the coverage of existing datasets. By systematically categorizing engagements into visits, receptions, multilateral organizations, and security fora, the dataset provides both empirical details and a foundation for testing competing theoretical claims about face-to-face and military diplomacy. Our analysis finds that (1) contrary to views that the People's Liberation Army functions primarily as a crisis management channel, Chinese military diplomacy is used chiefly to promote cooperation in areas such as nontraditional security issues and combined military exercises, and (2) patterns of engagement are shaped more by economic ties and geographic proximity than by partner states' regime type or alignment with the United States. These results challenge assumptions in the crisis management and wedging literatures, while offering new grounds for theorizing about the conditions under which states employ military versus civilian diplomatic channels. More broadly, the dataset highlights military diplomacy as a critical yet neglected dimension of China's foreign policy and provides a resource for advancing research on great power competition and international cooperation.</blockquote>
+</div>
+</p>
+
 
 <p>
 Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
