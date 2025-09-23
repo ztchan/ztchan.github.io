@@ -80,7 +80,7 @@ Years (decades, really) of living, studying, and working across five continents 
 
 <button onclick=" window.open('https://www.foreignaffairs.com/china/what-china-doesnt-want','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://drive.google.com/file/d/1gVD7-wQEMLIOCkPXzeYgfL3NkjHnh_4B/view','_blank')" class="button">Ungated Version</button> 
-
+</p>
 
 <p>
 <b>What Does China Want?</b>
