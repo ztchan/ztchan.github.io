@@ -74,6 +74,15 @@ Years (decades, really) of living, studying, and working across five continents 
 ## Publications
 
 <p>
+<b>What China Doesn’t Want</b>
+  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <i>Foreign Affairs</i>, September 19, 2025. <br>
+
+<button onclick=" window.open('https://www.foreignaffairs.com/china/what-china-doesnt-want','_blank')" class="button">Publisher's Version</button> 
+<button onclick=" window.open('https://drive.google.com/file/d/1gVD7-wQEMLIOCkPXzeYgfL3NkjHnh_4B/view','_blank')" class="button">Ungated Version</button> 
+
+
+<p>
 <b>What Does China Want?</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>International Security</i>, 2025, 50(1): 46–81. <br>
