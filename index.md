@@ -74,6 +74,14 @@ Years (decades, really) of living, studying, and working across five continents 
 ## Publications
 
 <p>
+<b>China’s Ambitions Are Narrower than Washington Thinks</b>
+  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <i>East Asia Forum</i>, January 1, 2026. <br>
+
+<button onclick=" window.open('https://eastasiaforum.org/2026/01/10/chinas-ambitions-are-narrower-than-washington-thinks/','_blank')" class="button">Publisher's Version (Ungated)</button> 
+</p>
+
+<p>
 <b>What China Doesn’t Want</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>Foreign Affairs</i>, September 19, 2025. <br>
