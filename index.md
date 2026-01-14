@@ -78,7 +78,7 @@ Years (decades, really) of living, studying, and working across five continents 
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>East Asia Forum</i>, January 1, 2026. <br>
 
-<button onclick=" window.open('https://eastasiaforum.org/2026/01/10/chinas-ambitions-are-narrower-than-washington-thinks/','_blank')" class="button">Publisher's Version (Ungated)</button> 
+<button onclick=" window.open('https://doi.org/10.59425/eabc.1768039200','_blank')" class="button">Publisher's Version (Ungated)</button> 
 </p>
 
 <p>
