@@ -67,7 +67,7 @@ As a political economist, I study international relations, focusing on economic 
 
 My book project <i>Alms and Influence</i> examines when economic inducements — such as foreign aid, large-scale investment initiatives, and discounted sales of natural resources — can buy influence abroad. I argue that inducements are often profitable not only for recipients but also for senders, creating what I call the <a href="https://ssrn.com/abstract=4789560" target="_blank"><i>inducement dilemma</i></a>: when a state benefits from providing inducements, it is less willing to withdraw them even in the absence of concessions. I test this argument using evidence from China’s Belt and Road Initiative, the Marshall Plan, and Russia’s twenty-first-century energy diplomacy.
 
-I am an Assistant Professor of Government at Georgetown, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank">Political Economy Program</a>. I hold a PhD from Princeton and previously taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy. 
+I am an Assistant Professor of Government at Georgetown, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy. 
 
 Years (decades, really) of living, studying, and working across five continents left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once proudly listed Arabic, Georgian, and Khmer on my CV, but now forget them with alarming speed. These days, I am also dabbling in Estonian and Finnish. 
 
@@ -78,8 +78,14 @@ Years (decades, really) of living, studying, and working across five continents 
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>East Asia Forum</i>, January 10, 2026. <br>
 
+<button onclick="myFunction('absChinasAmbitions')" class="button">Abstract</button>
 <button onclick=" window.open('https://doi.org/10.59425/eabc.1768039200','_blank')" class="button">Publisher's Version (Ungated)</button> 
+
+<div id='absChinasAmbitions' style="display: none;">
+  <blockquote>China is often portrayed in Washington as a revisionist power seeking global dominance, but this view misreads Beijing’s intentions. China’s leaders remain focused on domestic stability, economic management and long-standing sovereignty claims rather than military expansion or replacing the United States. Its growing role in global institutions and initiatives such as the Belt and Road reflects economic growth and US retreat, not a bid to overturn the international order. Understanding China as it is, rather than through the lens of US domestic politics, is essential for a sustainable US–China policy.</blockquote>
+</div>
 </p>
+
 
 <p>
 <b>What China Doesn’t Want</b>
