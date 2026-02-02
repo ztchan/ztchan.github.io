@@ -63,7 +63,7 @@ ol li {
 </style>
 
 
-As a political economist, I study international relations, focusing on economic statecraft. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
+As a political economist, I study international relations, focusing on economic statecraft and technological competition. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
 
 My book project <i>Alms and Influence</i> examines when economic inducements — such as foreign aid, large-scale investment initiatives, and discounted sales of natural resources — can buy influence abroad. I argue that inducements are often profitable not only for recipients but also for senders, creating what I call the <a href="https://ssrn.com/abstract=4789560" target="_blank"><i>inducement dilemma</i></a>: when a state benefits from providing inducements, it is less willing to withdraw them even in the absence of concessions. I test this argument using evidence from China’s Belt and Road Initiative, Taiwan's microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the 21st century.
 
