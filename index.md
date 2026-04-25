@@ -207,6 +207,18 @@ Diplomats in Camouflage: A Dataset of China's Military-Diplomatic Engagements (w
 
 
 <p>
+Moving Out of Crisis: Third-Country Diplomacy and China's Crisis Management (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a>, <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, and <a href="https://shinghon.github.io/" target="_blank">Shing-hon Lam</a>, under review)
+<br>
+<button onclick="myFunction('abs3rdCountry')" class="button">Abstract</button>
+<button onclick=" window.open('https://dx.doi.org/10.2139/ssrn.6647859','_blank')" class="button">Current Draft</button> 
+
+<div id='abs3rdCountry' style="display: none;">
+  <blockquote>Why do leaders in crisis sometimes meet their adversaries in a third country rather than in either side's territory? This paper argues that venue choice is a strategic tool of crisis diplomacy. When bilateral visits are politically costly, third-country settings provide a spatial workaround: they allow leaders to communicate directly while reducing the symbolic costs of appearing conciliatory. We theorize that third-country diplomacy operates through political cover, attributional ambiguity, and responsibility diffusion. Using an original dataset of China's senior leader diplomacy from 1998 to 2023, we examine China–counterpart encounters involving the Party General Secretary and the Premier and distinguish between bilateral-site and third-country venues. The results show that military disputes are associated with a greater likelihood of third-country encounters relative to bilateral-site encounters. Third-country encounters are also followed by higher levels of China-initiated cooperative behavior, particularly after periods of military friction. The findings contribute to research on crisis de-escalation, audience costs, and face-to-face diplomacy by showing that leaders do not only “talk their way out” of political constraints; they can also “move their way out” of them.</blockquote>
+</div>
+</p>
+
+
+<p>
 Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, under review)
 <br>
 <button onclick="myFunction('absMultipleChannel')" class="button">Abstract</button>
