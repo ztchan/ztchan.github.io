@@ -195,7 +195,7 @@ The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Ope
 
 
 <p>
-Diplomats in Camouflage: A Dataset of China's Military-Diplomatic Engagements (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, revised and resubmitted, <i>Journal of Conflict Resolution</i>)
+Diplomats in Camouflage: A Dataset of China's Military-Diplomatic Engagements (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, R&R, <i>Journal of Conflict Resolution</i>)
 <br>
 <button onclick="myFunction('absMilitaryDiplomacy')" class="button">Abstract</button>
 <button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button">Current Draft</button> 
