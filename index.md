@@ -63,38 +63,16 @@ ol li {
 </style>
 
 
-As a political economist, I study international relations, focusing on economic statecraft and technological competition. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
+As a political economist, I study how states use money, technology, and information to gain influence abroad, and why these tools often work less neatly than policymakers hope. My research focuses on economic statecraft, technological competition, Chinese foreign policy, and the bargaining strategies of smaller states caught between major powers. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
 
-My book project <i>Alms and Influence</i> examines when economic inducements — such as foreign aid, large-scale investment initiatives, and discounted sales of natural resources — can buy influence abroad. I argue that inducements are often profitable not only for recipients but also for senders, creating what I call the <a href="https://ssrn.com/abstract=4789560" target="_blank"><i>inducement dilemma</i></a>: when a state benefits from providing inducements, it is less willing to withdraw them even in the absence of concessions. I test this argument using evidence from China’s Belt and Road Initiative, Taiwan's microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the 21st century.
+My book project, <i>Alms and Influence</i>, examines when economic inducements — such as foreign aid, infrastructure investment, discounted natural resources, and strategic technology partnerships — can buy political influence. I argue that inducements often create an <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>inducement dilemma</i></a>: when providing benefits is profitable for the sender, the sender may be unwilling to withdraw them even when the recipient refuses to make concessions. I test this argument using evidence from China’s Belt and Road Initiative, Taiwan’s microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the twenty-first century.
 
-I am an Assistant Professor of Government at Georgetown, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy. 
+I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
-Years (decades, really) of living, studying, and working across five continents left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once proudly listed Arabic, Georgian, and Khmer on my CV, but now forget them with alarming speed. These days, I am also dabbling in Estonian and Finnish. 
-
-## Publications
-
-<p>
-<b>China’s Ambitions Are Narrower than Washington Thinks</b>
-  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
-  <i>East Asia Forum</i>, January 10, 2026. <br>
-
-<button onclick="myFunction('absChinasAmbitions')" class="button">Abstract</button>
-<button onclick=" window.open('https://doi.org/10.59425/eabc.1768039200','_blank')" class="button">Publisher's Version (Ungated)</button> 
-
-<div id='absChinasAmbitions' style="display: none;">
-  <blockquote>China is often portrayed in Washington as a revisionist power seeking global dominance, but this view misreads Beijing’s intentions. China’s leaders remain focused on domestic stability, economic management and long-standing sovereignty claims rather than military expansion or replacing the United States. Its growing role in global institutions and initiatives such as the Belt and Road reflects economic growth and US retreat, not a bid to overturn the international order. Understanding China as it is, rather than through the lens of US domestic politics, is essential for a sustainable US–China policy.</blockquote>
-</div>
-</p>
+I have lived, studied, and worked across five continents, which left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once claimed Arabic, Georgian, and Khmer with great optimism; these days, I remember them mostly as evidence that language skills depreciate faster than human capital theory would predict. I am now dabbling in Estonian and Finnish because my research keeps requiring new languages, and apparently I have not learned my lesson.
 
 
-<p>
-<b>What China Doesn’t Want</b>
-  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
-  <i>Foreign Affairs</i>, September 19, 2025. <br>
-
-<button onclick=" window.open('https://www.foreignaffairs.com/china/what-china-doesnt-want','_blank')" class="button">Publisher's Version</button> 
-<button onclick=" window.open('https://drive.google.com/file/d/1gVD7-wQEMLIOCkPXzeYgfL3NkjHnh_4B/view','_blank')" class="button">Ungated Version</button> 
-</p>
+## Peer-Reviewed Publications
 
 <p>
 <b>What Does China Want?</b>
@@ -152,6 +130,42 @@ Years (decades, really) of living, studying, and working across five continents 
 <button onclick=" window.open('https://drive.google.com/file/d/1ZgHzi3WzaTvgAR8hL_SZbdMR07AlNxUS/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
 </p>
 
+## Commentaries
+
+<p>
+<b>China and the US: Who Will Better Understand Southeast Asia?</b>
+  <i>ISEAS Fulcrum</i>, June 10, 2026. <br>
+
+<button onclick="myFunction('absWhoWillUnderstandSEA')" class="button">Abstract</button>
+<button onclick=" window.open('https://fulcrum.sg/china-and-the-us-who-will-better-understand-southeast-asia/','_blank')" class="button">Publisher's Version (Ungated)</button> 
+<button onclick=" window.open('https://www.scmp.com/week-asia/opinion/article/3356939/china-builds-southeast-asia-expertise-us-lets-it-wither','_blank')" class="button1">Reprinted in <i>South China Morning Post</i></button> 
+
+<div id='absWhoWillUnderstandSEA' style="display: none;">
+  <blockquote>The US appears to be losing to China in the race to understand Southeast Asia. The real test, however, centres on whether a country can sustain the institutions to study the region critically.</blockquote>
+</div>
+</p>
+
+<p>
+<b>China’s Ambitions Are Narrower than Washington Thinks</b>
+  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <i>East Asia Forum</i>, January 10, 2026. <br>
+
+<button onclick="myFunction('absChinasAmbitions')" class="button">Abstract</button>
+<button onclick=" window.open('https://doi.org/10.59425/eabc.1768039200','_blank')" class="button">Publisher's Version (Ungated)</button> 
+
+<div id='absChinasAmbitions' style="display: none;">
+  <blockquote>China is often portrayed in Washington as a revisionist power seeking global dominance, but this view misreads Beijing’s intentions. China’s leaders remain focused on domestic stability, economic management and long-standing sovereignty claims rather than military expansion or replacing the United States. Its growing role in global institutions and initiatives such as the Belt and Road reflects economic growth and US retreat, not a bid to overturn the international order. Understanding China as it is, rather than through the lens of US domestic politics, is essential for a sustainable US–China policy.</blockquote>
+</div>
+</p>
+
+<p>
+<b>What China Doesn’t Want</b>
+  (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <i>Foreign Affairs</i>, September 19, 2025. <br>
+
+<button onclick=" window.open('https://www.foreignaffairs.com/china/what-china-doesnt-want','_blank')" class="button">Publisher's Version</button> 
+<button onclick=" window.open('https://drive.google.com/file/d/1gVD7-wQEMLIOCkPXzeYgfL3NkjHnh_4B/view','_blank')" class="button">Ungated Version</button> 
+</p>
 
 ## Working Papers
 
