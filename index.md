@@ -133,7 +133,7 @@ I have lived, studied, and worked across five continents, which left me fluent i
 ## Commentaries
 
 <p>
-<b>China and the US: Who Will Better Understand Southeast Asia?</b>
+<b>China and the US: Who Will Better Understand Southeast Asia?</b><br>
   <i>ISEAS Fulcrum</i>, June 10, 2026. <br>
 
 <button onclick=" window.open('https://fulcrum.sg/china-and-the-us-who-will-better-understand-southeast-asia/','_blank')" class="button">Publisher's Version (Ungated)</button> 
