@@ -136,13 +136,8 @@ I have lived, studied, and worked across five continents, which left me fluent i
 <b>China and the US: Who Will Better Understand Southeast Asia?</b>
   <i>ISEAS Fulcrum</i>, June 10, 2026. <br>
 
-<button onclick="myFunction('absWhoWillUnderstandSEA')" class="button">Abstract</button>
 <button onclick=" window.open('https://fulcrum.sg/china-and-the-us-who-will-better-understand-southeast-asia/','_blank')" class="button">Publisher's Version (Ungated)</button> 
 <button onclick=" window.open('https://www.scmp.com/week-asia/opinion/article/3356939/china-builds-southeast-asia-expertise-us-lets-it-wither','_blank')" class="button1">Reprinted in <i>South China Morning Post</i></button> 
-
-<div id='absWhoWillUnderstandSEA' style="display: none;">
-  <blockquote>The US appears to be losing to China in the race to understand Southeast Asia. The real test, however, centres on whether a country can sustain the institutions to study the region critically.</blockquote>
-</div>
 </p>
 
 <p>
