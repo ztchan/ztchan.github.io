@@ -75,6 +75,21 @@ I have lived, studied, and worked across five continents, which left me fluent i
 ## Peer-Reviewed Publications
 
 <p>
+<b>Diplomats in Camouflage: A Dataset of China’s Military-Diplomatic Engagements</b>
+  (with <a href="https://noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
+  <i>Journal of Conflict Resolution</i>, accepted. <br>
+
+<button onclick="myFunction('absDipInCamo')" class="button">Abstract</button>
+<!-- <button onclick=" window.open('https://doi.org/10.1162/ISEC.a.5','_blank')" class="button">Publisher's Version (Open Access)</button> -->
+<button onclick=" window.open('https://doi.org/10.7910/DVN/VEBBRF','_blank')" class="button1">Replication Files</button> 
+<button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button">Authors' Draft Version</button> 
+
+<div id='absDipInCamo' style="display: none;">
+  <blockquote>Face-to-face diplomacy is central to international politics, yet existing research focuses largely on civilian leaders and diplomats. We introduce an original meeting-level dataset of China’s public military-diplomatic engagements from 2000–2023. Drawing on four authoritative Chinese-language party, state, and military outlets, the dataset records over 2,500 engagements involving senior Chinese military leaders and foreign counterparts. It classifies engagements as receptions in China, outbound visits, multilateral organization meetings, and defense and security fora, while preserving information on participants, timing, location, sources, and reported content. Official reporting frames these engagements primarily around cooperation and exchange. An illustrative analysis of outbound visits finds little evidence that China concentrates senior-level military outreach on U.S. allies. Outbound visits are instead positively associated with pre-existing security-specific and economic relationships with China. This dataset enables future research on how military diplomacy complements civilian diplomacy, signals strategic priorities, and shapes security cooperation, crisis management, and political influence.</blockquote>
+</div>
+</p>
+
+<p>
 <b>What Does China Want?</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>International Security</i>, 2025, 50(1): 46–81. <br>
@@ -199,18 +214,6 @@ The Indirect Effect: How Hidden "Relay Stations" Amplify Russian Information Ope
 
 <div id='absRelayStation' style="display: none;">
   <blockquote>Why do states like Russia invest heavily in foreign-facing media with small audiences? We argue that these states spread information operations through "relay stations"-credible, independent local media in the target country-enabling indirect consumption by audiences. Relay stations work via two mechanisms: direct citations and appropriation of content from information operations. Focusing on Taiwan's coverage of Russia's invasion of Ukraine, we find that journalists rarely attribute negative connotations to Russian state-sponsored outlets and instead incorporate Russian content into reporting. Using an original multilingual dictionary and argument similarity measure, we analyzed 17,258 news articles, finding systematic evidence that reputable, major news outlets in Taiwan cited Russian government-sponsored sources and echoed Russian narratives. This indirect spread of information operations through relay stations suggests that prior research may have underestimated exposure to such operations, making countermeasures more difficult than previously anticipated.</blockquote>
-</div>
-</p>
-
-
-<p>
-Diplomats in Camouflage: A Dataset of China's Military-Diplomatic Engagements (with <a href="https://www.noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>, R&R, <i>Journal of Conflict Resolution</i>)
-<br>
-<button onclick="myFunction('absMilitaryDiplomacy')" class="button">Abstract</button>
-<button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button">Current Draft</button> 
-
-<div id='absMilitaryDiplomacy' style="display: none;">
-  <blockquote>Face-to-face diplomacy is increasingly recognized as central to international politics, yet existing research focuses largely on civilian leaders and diplomats. We introduce an original meeting-level dataset of China’s public military-diplomatic engagements from 2000 to 2023. Drawing on four authoritative Chinese-language party, state, and military outlets, the dataset records more than 2,500 engagements involving senior Chinese military leaders and foreign counterparts. It classifies engagements into receptions in China, outbound visits, multilateral organization meetings, and defense and security fora, preserving granular information on participants, timing, location, source material, and reported content. Descriptively, we show that official reporting frames military diplomacy primarily around cooperation and exchange. An illustrative empirical application shows that prior arms transfers from China are associated with more outbound visits by senior Chinese military leaders. This dataset enables future research on how military diplomacy complements civilian diplomacy, signals strategic priorities, and shapes security cooperation, crisis management, and political influence.</blockquote>
 </div>
 </p>
 
