@@ -69,7 +69,7 @@ My book project, <i>Alms and Influence</i>, examines when economic inducements �
 
 I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
-I have lived, studied, and worked across five continents, which left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once claimed Arabic, Georgian, and Khmer with great optimism; these days, I remember them mostly as evidence that language skills depreciate faster than human capital theory would predict. I am now dabbling in Estonian and Finnish because my research keeps requiring new languages, and apparently I have not learned my lesson.
+I have lived, studied, and worked across five continents, which left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once claimed Arabic, Georgian, and Khmer with great optimism; these days, I remember them mostly as evidence that language skills depreciate faster than human capital theory would predict. These days, I am dabbling in Estonian and Finnish because life keeps requiring new languages, and apparently I have not learned my lesson.
 
 
 ## Peer-Reviewed Publications
@@ -77,12 +77,12 @@ I have lived, studied, and worked across five continents, which left me fluent i
 <p>
 <b>Diplomats in Camouflage: A Dataset of China’s Military-Diplomatic Engagements</b>
   (with <a href="https://noelfoster.com/" target="_blank">Noel Foster</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
-  <i>Journal of Conflict Resolution</i>, accepted. <br>
+  <i>Journal of Conflict Resolution</i>, published online before print. <br>
 
 <button onclick="myFunction('absDipInCamo')" class="button">Abstract</button>
-<!-- <button onclick=" window.open('https://doi.org/10.1162/ISEC.a.5','_blank')" class="button">Publisher's Version (Open Access)</button> -->
+<button onclick=" window.open('https://doi.org/10.1177/00220027261473786','_blank')" class="button">Publisher's Version (Open Access)</button>
 <button onclick=" window.open('https://doi.org/10.7910/DVN/VEBBRF','_blank')" class="button1">Replication Files</button> 
-<button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button1">Authors' Draft Version</button> 
+<!-- <button onclick=" window.open('http://dx.doi.org/10.2139/ssrn.5403728','_blank')" class="button1">Authors' Draft Version</button> -->
 
 <div id='absDipInCamo' style="display: none;">
   <blockquote>Face-to-face diplomacy is central to international politics, yet existing research focuses largely on civilian leaders and diplomats. We introduce an original meeting-level dataset of China’s public military-diplomatic engagements from 2000–2023. Drawing on four authoritative Chinese-language party, state, and military outlets, the dataset records over 2,500 engagements involving senior Chinese military leaders and foreign counterparts. It classifies engagements as receptions in China, outbound visits, multilateral organization meetings, and defense and security fora, while preserving information on participants, timing, location, sources, and reported content. Official reporting frames these engagements primarily around cooperation and exchange. An illustrative analysis of outbound visits finds little evidence that China concentrates senior-level military outreach on U.S. allies. Outbound visits are instead positively associated with pre-existing security-specific and economic relationships with China. This dataset enables future research on how military diplomacy complements civilian diplomacy, signals strategic priorities, and shapes security cooperation, crisis management, and political influence.</blockquote>
