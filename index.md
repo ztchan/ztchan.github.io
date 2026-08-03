@@ -69,8 +69,6 @@ My book project, <i>Alms and Influence</i>, examines when economic inducements â
 
 I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
-I have lived, studied, and worked across five continents, which left me fluent in Cantonese, English, French, Mandarin Chinese, and Teochew, and able to read Japanese, Russian, and Ukrainian. I once claimed Arabic, Georgian, and Khmer with great optimism; these days, I remember them mostly as evidence that language skills depreciate faster than human capital theory would predict. These days, I am dabbling in Estonian and Finnish because life keeps requiring new languages, and apparently I have not learned my lesson.
-
 
 ## Peer-Reviewed Publications
 
