@@ -72,8 +72,6 @@ I am an Assistant Professor of Government at Georgetown University, where I also
 
 ## Peer-Reviewed Publications
 
-Doshi, Rush, Andrea Ghiselli, Todd H. Hall, et al. 2026. “Correspondence: The Challenge of Studying What China Wants.” International Security 51 (1): 164–73. https://doi.org/10.1162/ISEC.c.418.
-
 <p>
 <b>Correspondence: The Challenge of Studying What China Wants</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
