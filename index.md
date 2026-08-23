@@ -65,9 +65,11 @@ ol li {
 
 As a political economist, I study how states use money, technology, and information to gain influence abroad, and why these tools often work less neatly than policymakers hope. My research focuses on economic statecraft, technological competition, Chinese foreign policy, and the bargaining strategies of smaller states caught between major powers. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
 
-My book project, <i>Alms and Influence</i>, examines when economic inducements — such as foreign aid, infrastructure investment, discounted natural resources, and strategic technology partnerships — can buy political influence. I argue that inducements often create an <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>inducement dilemma</i></a>: when providing benefits is profitable for the sender, the sender may be unwilling to withdraw them even when the recipient refuses to make concessions. I test this argument using evidence from China’s Belt and Road Initiative, Taiwan’s microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the twenty-first century.
+My book project, <i>Alms and Influence</i>, examines when economic inducements—such as foreign aid, infrastructure investment, discounted natural resources, and strategic technology partnerships—can buy political influence. I argue that inducements often create an <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>inducement dilemma</i></a>: when providing benefits is profitable for the sender, it may be unwilling to withdraw them even when the recipient refuses to make concessions. I test this argument with evidence from China’s Belt and Road Initiative, Taiwan’s microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the twenty-first century.
 
 I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
+
+I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese, Russian, and Ukrainian; have forgotten much of my Arabic, Georgian, and Khmer; and am learning Estonian and Finnish.
 
 
 ## Peer-Reviewed Publications
@@ -79,6 +81,7 @@ I am an Assistant Professor of Government at Georgetown University, where I also
 	
 <button onclick=" window.open('https://doi.org/10.1162/ISEC.c.418','_blank')" class="button">Publisher's Version</button> 
 <button onclick=" window.open('https://drive.google.com/file/d/1XwsuhgCy2gOz7BPtlagaZYCisEWVsBfy/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
+<button onclick=" window.open('https://doi.org/10.7910/DVN/GWDRJI','_blank')" class="button1">Replication Files</button> 
 </p>
 
 
