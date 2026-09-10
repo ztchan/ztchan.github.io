@@ -75,7 +75,7 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
 ## Peer-Reviewed Publications
 
 <p>
-<b>Correspondence: The Challenge of Studying What China Wants</b>
+<b>The Challenge of Studying What China Wants</b>
   (with <a href="https://www.daveckang.net/" target="_blank">David C. Kang</a> and <a href="https://siuheiwo.github.io/" target="_blank">Jackie S.H. Wong</a>) <br>
   <i>International Security</i>, 2026, 51(1): 171–73. <br>
 	
