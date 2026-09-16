@@ -65,7 +65,7 @@ ol li {
 
 My research examines how states use economic and technological resources to build political influence, and why these efforts often work less neatly than policymakers expect. I work on economic statecraft, emerging technology policy, and geopolitical risk, with a particular focus on China and the Indo-Pacific. Across these areas, I am interested in how strategic competition shapes the choices available to both major powers and smaller states.
 
-My book project, <i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i>, asks when economic inducements—such as foreign aid, infrastructure investment, natural resources, and strategic technology partnerships—can buy political influence. I argue that inducements create a <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>fundamental dilemma</i></a>: when providing benefits also serves the sender's own economic or political interests, the sender may be unwilling to withdraw them even when the recipient refuses to make concessions. The book examines this argument through China’s Belt and Road Initiative, Taiwan’s semiconductor diplomacy, and the Marshall Plan.
+My book project, <i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i>, asks when economic inducements—such as foreign aid, infrastructure investment, natural resources, and strategic technology partnerships—can buy political influence. I argue that inducements create a <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer">fundamental dilemma</a>: when providing benefits also serves the sender's own economic or political interests, the sender may be unwilling to withdraw them even when the recipient refuses to make concessions. The book examines this argument through China’s Belt and Road Initiative, Taiwan’s semiconductor diplomacy, and the Marshall Plan.
 
 My recent research extends these questions to the geopolitics of emerging technologies and economic security. I study <a href="https://www.iseas.edu.sg/articles-commentaries/trends-in-southeast-asia/southeast-asia-in-the-ai-race-access-affordability-and-resilience-by-zenobia-chan/" target="_blank" rel="noopener noreferrer">AI governance</a>, supply chain security, rare earths and critical minerals, and <a href="https://fulcrum.sg/article/commentaries/for-southeast-asia-the-ai-race-is-about-access-not-supremacy/" target="_blank" rel="noopener noreferrer">how governments navigate technological and economic competition</a>. My work also bridges research and policy, and I regularly brief government and policy audiences across the United States, Europe, and Asia.
 
@@ -174,7 +174,7 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
 </p>
 
 
-## Commentaries
+## Policy and Commentary
 
 <p>
 <b>For Southeast Asia, the AI Race Is About Access, Not Supremacy</b><br>
