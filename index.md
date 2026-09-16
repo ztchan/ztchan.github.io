@@ -69,14 +69,14 @@ My book project, <i>Alms and Influence: When Economic Inducements Fail, and When
 
 My recent research extends these questions to the geopolitics of emerging technologies and economic security. I study <a href="https://www.iseas.edu.sg/articles-commentaries/trends-in-southeast-asia/southeast-asia-in-the-ai-race-access-affordability-and-resilience-by-zenobia-chan/" target="_blank" rel="noopener noreferrer">AI governance</a>, supply chain security, rare earths and critical minerals, and <a href="https://fulcrum.sg/article/commentaries/for-southeast-asia-the-ai-race-is-about-access-not-supremacy/" target="_blank" rel="noopener noreferrer">how governments navigate technological and economic competition</a>. My work also bridges research and policy, and I regularly brief government and policy audiences across the United States, Europe, and Asia.
 
-I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and previously held a Postdoctoral Prize Research Fellowship at Nuffield College, Oxford. Before wandering into academia, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
+I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and sas a Postdoctoral Prize Research Fellow at Nuffield College, Oxford. Before wandering into academia, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
 I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese, Russian, and Ukrainian; have forgotten much of my Arabic, Georgian, and Khmer; and am learning Estonian and Finnish.
 
 ## Books and Research Monographs
 
 <p>
-<b><i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i>i</b><br>
+<b><i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i></b><br>
   Under review. <br>
 </p>
 
