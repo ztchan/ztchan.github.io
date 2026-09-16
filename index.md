@@ -81,7 +81,7 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
 </p>
 
 <p>
-<b><i>Southeast Asia in the AI Race: Access, Affordability and Resilience</i>i</b><br>
+<b><i>Southeast Asia in the AI Race: Access, Affordability and Resilience</i></b><br>
   ISEAS Publishing, 2026. <br>
 <button onclick=" window.open('https://www.iseas.edu.sg/articles-commentaries/trends-in-southeast-asia/southeast-asia-in-the-ai-race-access-affordability-and-resilience-by-zenobia-chan/','_blank')" class="button">Publisher's Website</button> 
 <button onclick=" window.open('https://www.iseas.edu.sg/wp-content/uploads/2026/09/TRS24_26.pdf','_blank')" class="button">E-book (Open Access)</button> 
