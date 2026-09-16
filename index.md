@@ -63,13 +63,30 @@ ol li {
 </style>
 
 
-As a political economist, I study how states use money, technology, and information to gain influence abroad, and why these tools often work less neatly than policymakers hope. My research focuses on economic statecraft, technological competition, Chinese foreign policy, and the bargaining strategies of smaller states caught between major powers. I also develop machine learning methods for estimating heterogeneous treatment effects in experimental and observational data.
+My research examines how states use economic and technological resources to build political influence, and why these efforts often work less neatly than policymakers expect. I work on economic statecraft, emerging technology policy, and geopolitical risk, with a particular focus on China and the Indo-Pacific. Across these areas, I am interested in how strategic competition shapes the choices available to both major powers and smaller states.
 
-My book project, <i>Alms and Influence</i>, examines when economic inducements—such as foreign aid, infrastructure investment, discounted natural resources, and strategic technology partnerships—can buy political influence. I argue that inducements often create an <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>inducement dilemma</i></a>: when providing benefits is profitable for the sender, it may be unwilling to withdraw them even when the recipient refuses to make concessions. I test this argument with evidence from China’s Belt and Road Initiative, Taiwan’s microchip diplomacy, the Marshall Plan, and Russia’s energy trade in the twenty-first century.
+My book project, <i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i>, asks when economic inducements—such as foreign aid, infrastructure investment, natural resources, and strategic technology partnerships—can buy political influence. I argue that inducements create a <a href="https://ssrn.com/abstract=4789560" target="_blank" rel="noopener noreferrer"><i>fundamental dilemma</i></a>: when providing benefits also serves the sender's own economic or political interests, the sender may be unwilling to withdraw them even when the recipient refuses to make concessions. The book examines this argument through China’s Belt and Road Initiative, Taiwan’s semiconductor diplomacy, and the Marshall Plan.
 
-I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and have taught at Columbia, Oxford, Princeton, and the Institute for Qualitative and Multi-Method Research (IQMR). Before wandering into academia with misplaced confidence, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
+My recent research extends these questions to the geopolitics of emerging technologies and economic security. I study <a href="https://www.iseas.edu.sg/articles-commentaries/trends-in-southeast-asia/southeast-asia-in-the-ai-race-access-affordability-and-resilience-by-zenobia-chan/" target="_blank" rel="noopener noreferrer">AI governance</a>, supply chain security, rare earths and critical minerals, and <a href="https://fulcrum.sg/article/commentaries/for-southeast-asia-the-ai-race-is-about-access-not-supremacy/" target="_blank" rel="noopener noreferrer">how governments navigate technological and economic competition</a>. My work also bridges research and policy, and I regularly brief government and policy audiences across the United States, Europe, and Asia.
+
+I am an Assistant Professor of Government at Georgetown University, where I also co-direct the <a href="https://peco.georgetown.edu/" target="_blank" rel="noopener noreferrer">Political Economy Program</a>. I hold a PhD from Princeton and previously held a Postdoctoral Prize Research Fellowship at Nuffield College, Oxford. Before wandering into academia, I led an analytics team at Google and worked at the United Nations, World Bank, and OECD on development assistance, infrastructure financing, and industrial policy.
 
 I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese, Russian, and Ukrainian; have forgotten much of my Arabic, Georgian, and Khmer; and am learning Estonian and Finnish.
+
+## Books and Research Monographs
+
+<p>
+<b><i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i>i</b><br>
+  Under review. <br>
+</p>
+
+<p>
+<b><i>Southeast Asia in the AI Race: Access, Affordability and Resilience</i>i</b><br>
+  ISEAS Publishing, 2026. <br>
+<button onclick=" window.open('https://www.iseas.edu.sg/articles-commentaries/trends-in-southeast-asia/southeast-asia-in-the-ai-race-access-affordability-and-resilience-by-zenobia-chan/','_blank')" class="button">Publisher's Website</button> 
+<button onclick=" window.open('https://www.iseas.edu.sg/wp-content/uploads/2026/09/TRS24_26.pdf','_blank')" class="button">E-book (Open Access)</button> 
+</p>
+
 
 
 ## Peer-Reviewed Publications
@@ -156,7 +173,15 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
 <button onclick=" window.open('https://drive.google.com/file/d/1ZgHzi3WzaTvgAR8hL_SZbdMR07AlNxUS/view?usp=sharing','_blank')" class="button">Ungated Version</button> 
 </p>
 
+
 ## Commentaries
+
+<p>
+<b>For Southeast Asia, the AI Race Is About Access, Not Supremacy</b><br>
+  <i>ISEAS Fulcrum</i>, September 16, 2026. <br>
+
+<button onclick=" window.open('https://fulcrum.sg/article/commentaries/for-southeast-asia-the-ai-race-is-about-access-not-supremacy/','_blank')" class="button">Publisher's Version (Ungated)</button> 
+</p>
 
 <p>
 <b>China and the US: Who Will Better Understand Southeast Asia?</b><br>
