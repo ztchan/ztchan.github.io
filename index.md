@@ -77,7 +77,7 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
 
 <p>
 <b><i>Alms and Influence: When Economic Inducements Fail, and When They Succeed</i></b><br>
-  Under review. <br>
+  Book manuscript. <br>
 </p>
 
 <p>
