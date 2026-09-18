@@ -181,6 +181,7 @@ I speak Cantonese, English, French, Mandarin Chinese, and Teochew; read Japanese
   <i>ISEAS Fulcrum</i>, September 16, 2026. <br>
 
 <button onclick=" window.open('https://fulcrum.sg/article/commentaries/for-southeast-asia-the-ai-race-is-about-access-not-supremacy/','_blank')" class="button">Publisher's Version (Ungated)</button> 
+<button onclick=" window.open('https://www.straitstimes.com/opinion/for-southeast-asia-the-ai-race-is-about-access-not-supremacy','_blank')" class="button1">Reprinted in <i>The Strait Times</i></button> 
 </p>
 
 <p>
